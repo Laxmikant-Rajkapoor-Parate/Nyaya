@@ -7,13 +7,17 @@ import * as Screens from './app/screens';
 
 const Stack = createStackNavigator();
 const StackNavigator = () => (
-  <Stack.Navigator initialRouteName="Login SignUp">
+  <Stack.Navigator initialRouteName="Profile">
     <Stack.Screen
       options={{headerShown: false}}
       name="Welcome"
       component={Screens.WelcomeScreen}
     />
-    <Stack.Screen name="Profile" component={Screens.ProfileScreen} />
+    <Stack.Screen
+      options={{headerShown: false}}
+      name="Profile"
+      component={Screens.ProfileScreen}
+    />
     <Stack.Screen name="Create Case" component={Screens.CreateCaseScreen} />
     <Stack.Screen
       name="Login SignUp"
