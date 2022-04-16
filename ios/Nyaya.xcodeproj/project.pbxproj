@@ -14,6 +14,21 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-Nyaya-NyayaTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Nyaya-NyayaTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		4C6B1027ADF54EA782915261 /* Segoe UI Bold Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9ABD17A9A3EF49AF99713B9D /* Segoe UI Bold Italic.ttf */; };
+		EB41D2AEF68941F881D59986 /* Segoe UI Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0E45AB21059C42F69E007FDF /* Segoe UI Bold.ttf */; };
+		A97666281DC34937A346B99D /* Segoe UI Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8C7E8B6F32534DDD99EAD16E /* Segoe UI Italic.ttf */; };
+		3B01F5F26CB141A9A4C0DF2B /* Segoe UI.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3F35102C994A4A088D9817EE /* Segoe UI.ttf */; };
+		EBD6B953FB8E472188CE8E30 /* Segoe UI Bold Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5763A2BDF0EC4BA0A3C5D5DE /* Segoe UI Bold Italic.ttf */; };
+		461F7204405544FEA2F4B88B /* Segoe UI Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 57EF525D32294125ACF0F16A /* Segoe UI Bold.ttf */; };
+		D899634F91AA4873BEE1D26F /* Segoe UI Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BDDDBED7C9B7454CB0C9222F /* Segoe UI Italic.ttf */; };
+		03B1F676A8AF42F4BD1556E4 /* Segoe UI.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C8FA695489DB427CB3A1B4D1 /* Segoe UI.ttf */; };
+		20B37294AC2C45D9AFFE51BD /* YanoneKaffeesatz-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 95758C331F7E415E94D11BAF /* YanoneKaffeesatz-Bold.ttf */; };
+		E1DC313E8F314968A3037AA4 /* YanoneKaffeesatz-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6FB2E1CF797141229868AB55 /* YanoneKaffeesatz-ExtraLight.ttf */; };
+		F2941BE9E23A44469AFA1452 /* YanoneKaffeesatz-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8371F3BDB4F445FF904DA888 /* YanoneKaffeesatz-Light.ttf */; };
+		996CD128D92849FA90F23FB1 /* YanoneKaffeesatz-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C371AEB306234221BBAE7321 /* YanoneKaffeesatz-Medium.ttf */; };
+		C3647A0B264141DAA3D59744 /* YanoneKaffeesatz-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 65627FF0AC674552969CA7ED /* YanoneKaffeesatz-Regular.ttf */; };
+		DDCA3D12B21C4DAF952D8003 /* YanoneKaffeesatz-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 43E40E736D3046E8B39FD3B8 /* YanoneKaffeesatz-SemiBold.ttf */; };
+		A7873F81E95A4F239261B40F /* YanoneKaffeesatz-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 269F3AF76D4D4136B666F022 /* YanoneKaffeesatz-VariableFont_wght.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +59,21 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Nyaya/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Nyaya-NyayaTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Nyaya-NyayaTests.release.xcconfig"; path = "Target Support Files/Pods-Nyaya-NyayaTests/Pods-Nyaya-NyayaTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		9ABD17A9A3EF49AF99713B9D /* Segoe UI Bold Italic.ttf */ = {isa = PBXFileReference; name = "Segoe UI Bold Italic.ttf"; path = "../app/fonts/Segoe UI Bold Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0E45AB21059C42F69E007FDF /* Segoe UI Bold.ttf */ = {isa = PBXFileReference; name = "Segoe UI Bold.ttf"; path = "../app/fonts/Segoe UI Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8C7E8B6F32534DDD99EAD16E /* Segoe UI Italic.ttf */ = {isa = PBXFileReference; name = "Segoe UI Italic.ttf"; path = "../app/fonts/Segoe UI Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3F35102C994A4A088D9817EE /* Segoe UI.ttf */ = {isa = PBXFileReference; name = "Segoe UI.ttf"; path = "../app/fonts/Segoe UI.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5763A2BDF0EC4BA0A3C5D5DE /* Segoe UI Bold Italic.ttf */ = {isa = PBXFileReference; name = "Segoe UI Bold Italic.ttf"; path = "../app/assets/fonts/Segoe UI Bold Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		57EF525D32294125ACF0F16A /* Segoe UI Bold.ttf */ = {isa = PBXFileReference; name = "Segoe UI Bold.ttf"; path = "../app/assets/fonts/Segoe UI Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BDDDBED7C9B7454CB0C9222F /* Segoe UI Italic.ttf */ = {isa = PBXFileReference; name = "Segoe UI Italic.ttf"; path = "../app/assets/fonts/Segoe UI Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C8FA695489DB427CB3A1B4D1 /* Segoe UI.ttf */ = {isa = PBXFileReference; name = "Segoe UI.ttf"; path = "../app/assets/fonts/Segoe UI.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		95758C331F7E415E94D11BAF /* YanoneKaffeesatz-Bold.ttf */ = {isa = PBXFileReference; name = "YanoneKaffeesatz-Bold.ttf"; path = "../app/assets/fonts/YanoneKaffeesatz-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		6FB2E1CF797141229868AB55 /* YanoneKaffeesatz-ExtraLight.ttf */ = {isa = PBXFileReference; name = "YanoneKaffeesatz-ExtraLight.ttf"; path = "../app/assets/fonts/YanoneKaffeesatz-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8371F3BDB4F445FF904DA888 /* YanoneKaffeesatz-Light.ttf */ = {isa = PBXFileReference; name = "YanoneKaffeesatz-Light.ttf"; path = "../app/assets/fonts/YanoneKaffeesatz-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C371AEB306234221BBAE7321 /* YanoneKaffeesatz-Medium.ttf */ = {isa = PBXFileReference; name = "YanoneKaffeesatz-Medium.ttf"; path = "../app/assets/fonts/YanoneKaffeesatz-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		65627FF0AC674552969CA7ED /* YanoneKaffeesatz-Regular.ttf */ = {isa = PBXFileReference; name = "YanoneKaffeesatz-Regular.ttf"; path = "../app/assets/fonts/YanoneKaffeesatz-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		43E40E736D3046E8B39FD3B8 /* YanoneKaffeesatz-SemiBold.ttf */ = {isa = PBXFileReference; name = "YanoneKaffeesatz-SemiBold.ttf"; path = "../app/assets/fonts/YanoneKaffeesatz-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		269F3AF76D4D4136B666F022 /* YanoneKaffeesatz-VariableFont_wght.ttf */ = {isa = PBXFileReference; name = "YanoneKaffeesatz-VariableFont_wght.ttf"; path = "../app/assets/fonts/YanoneKaffeesatz-VariableFont_wght.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +152,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				7AD33494723F4828979FA8B5 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +178,29 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		7AD33494723F4828979FA8B5 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				9ABD17A9A3EF49AF99713B9D /* Segoe UI Bold Italic.ttf */,
+				0E45AB21059C42F69E007FDF /* Segoe UI Bold.ttf */,
+				8C7E8B6F32534DDD99EAD16E /* Segoe UI Italic.ttf */,
+				3F35102C994A4A088D9817EE /* Segoe UI.ttf */,
+				5763A2BDF0EC4BA0A3C5D5DE /* Segoe UI Bold Italic.ttf */,
+				57EF525D32294125ACF0F16A /* Segoe UI Bold.ttf */,
+				BDDDBED7C9B7454CB0C9222F /* Segoe UI Italic.ttf */,
+				C8FA695489DB427CB3A1B4D1 /* Segoe UI.ttf */,
+				95758C331F7E415E94D11BAF /* YanoneKaffeesatz-Bold.ttf */,
+				6FB2E1CF797141229868AB55 /* YanoneKaffeesatz-ExtraLight.ttf */,
+				8371F3BDB4F445FF904DA888 /* YanoneKaffeesatz-Light.ttf */,
+				C371AEB306234221BBAE7321 /* YanoneKaffeesatz-Medium.ttf */,
+				65627FF0AC674552969CA7ED /* YanoneKaffeesatz-Regular.ttf */,
+				43E40E736D3046E8B39FD3B8 /* YanoneKaffeesatz-SemiBold.ttf */,
+				269F3AF76D4D4136B666F022 /* YanoneKaffeesatz-VariableFont_wght.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -244,6 +298,21 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				4C6B1027ADF54EA782915261 /* Segoe UI Bold Italic.ttf in Resources */,
+				EB41D2AEF68941F881D59986 /* Segoe UI Bold.ttf in Resources */,
+				A97666281DC34937A346B99D /* Segoe UI Italic.ttf in Resources */,
+				3B01F5F26CB141A9A4C0DF2B /* Segoe UI.ttf in Resources */,
+				EBD6B953FB8E472188CE8E30 /* Segoe UI Bold Italic.ttf in Resources */,
+				461F7204405544FEA2F4B88B /* Segoe UI Bold.ttf in Resources */,
+				D899634F91AA4873BEE1D26F /* Segoe UI Italic.ttf in Resources */,
+				03B1F676A8AF42F4BD1556E4 /* Segoe UI.ttf in Resources */,
+				20B37294AC2C45D9AFFE51BD /* YanoneKaffeesatz-Bold.ttf in Resources */,
+				E1DC313E8F314968A3037AA4 /* YanoneKaffeesatz-ExtraLight.ttf in Resources */,
+				F2941BE9E23A44469AFA1452 /* YanoneKaffeesatz-Light.ttf in Resources */,
+				996CD128D92849FA90F23FB1 /* YanoneKaffeesatz-Medium.ttf in Resources */,
+				C3647A0B264141DAA3D59744 /* YanoneKaffeesatz-Regular.ttf in Resources */,
+				DDCA3D12B21C4DAF952D8003 /* YanoneKaffeesatz-SemiBold.ttf in Resources */,
+				A7873F81E95A4F239261B40F /* YanoneKaffeesatz-VariableFont_wght.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

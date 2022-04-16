@@ -36,7 +36,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -51,5 +51,19 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Segoe UI Bold Italic.ttf</string>
+		<string>Segoe UI Bold.ttf</string>
+		<string>Segoe UI Italic.ttf</string>
+		<string>Segoe UI.ttf</string>
+		<string>YanoneKaffeesatz-Bold.ttf</string>
+		<string>YanoneKaffeesatz-ExtraLight.ttf</string>
+		<string>YanoneKaffeesatz-Light.ttf</string>
+		<string>YanoneKaffeesatz-Medium.ttf</string>
+		<string>YanoneKaffeesatz-Regular.ttf</string>
+		<string>YanoneKaffeesatz-SemiBold.ttf</string>
+		<string>YanoneKaffeesatz-VariableFont_wght.ttf</string>
+	</array>
 </dict>
 </plist>
