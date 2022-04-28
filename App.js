@@ -1,9 +1,11 @@
-import React from 'react';
-import {StyleSheet, Text, View} from 'react-native';
+import React, {useContext, useState, useEffect} from 'react';
+import {StyleSheet} from 'react-native';
 import {createStackNavigator} from '@react-navigation/stack';
 import {NavigationContainer} from '@react-navigation/native';
+import auth from '@react-native-firebase/auth';
 
 import * as Screens from './app/screens';
+import {AuthContext} from './app/auth/AuthProvider';
 
 const Stack = createStackNavigator();
 const StackNavigator = () => (
@@ -34,6 +36,19 @@ const StackNavigator = () => (
 );
 
 const App = () => {
+  const {user, setUser} = useContext(AuthContext);
+  const [initializing, setInitializing] = useState(true);
+
+  useEffect(() => {
+    const subscriber = auth().onAuthStateChanged(user => {
+      setUser(user);
+      if (initializing) setInitializing(false);
+    });
+    return subscriber;
+  }, []);
+
+  if (initializing) return null;
+
   return (
     <NavigationContainer>
       <StackNavigator />

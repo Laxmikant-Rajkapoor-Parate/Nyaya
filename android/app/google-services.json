@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719044066356",
+    "project_id": "nyaya-1d064",
+    "storage_bucket": "nyaya-1d064.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719044066356:android:3d0e334e75170b57fc1e61",
+        "android_client_info": {
+          "package_name": "com.nyaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719044066356-0fuli6hhiq553p5qnuapo9r6flo623ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8FOQJu-53_zGRwaSskALurnx1oqd4hyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719044066356-0fuli6hhiq553p5qnuapo9r6flo623ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

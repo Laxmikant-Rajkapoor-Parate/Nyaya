@@ -3,7 +3,7 @@ import {
   StyleSheet,
   Text,
   SafeAreaView,
-  Image,
+  Image, // jsfjjsfdj
   View,
   TouchableOpacity,
   ScrollView,
